@@ -1,0 +1,1 @@
+Mancala (http://en.wikipedia.org/wiki/Mancala) implementation in Java. Coded by Gadi Lifshitz (http://www.lifshitz.net)
